@@ -1,0 +1,72 @@
+{
+  "baseURL": "http://www.wijkwis.nl/",
+  "languageCode": "nl-nl",
+  "title": "Wijkwis De Blaak",
+  "theme": "congo",
+  "dateFormat": ":date_short",
+  "author": {
+    "name": "WijKwis De Blaak",
+    "image": "images/logo-wijkwis.jpg",
+    "headline": "Zaterdag 15 oktober 2022",
+    "links": [
+      { "instagram": "https://www.instagram.com/blaakse_wijkwis" },
+      { "facebook": "https://www.facebook.com/groups/502362817933644" }
+    ]
+  },
+  "params": {
+    "defaultContentLanguage": "nl",
+    "defaultAppearance": "dark",
+    "showAppearanceSwitcher": false,
+    "list": {
+      "showSummary": true
+    },
+    "homepage": {
+      "layout": "profile",
+      "showRecent": true
+    },
+    "article": {
+      "showReadingTime": false,
+      "showDateUpdated": true
+    },
+    "social": [
+      {
+        "icon": "instagram",
+        "name": "Instagram",
+        "url": "https://www.instagram.com/blaakse_wijkwis"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": "https://www.facebook.com/DeBlaak"
+      }
+    ]
+  },
+  "menu": {
+    "main": [
+      {
+        "identifier": "home",
+        "name": "Home",
+        "url": "/",
+        "weight": 1
+      },
+      {
+        "identifier": "nieuws",
+        "name": "Nieuws",
+        "url": "/nieuws/",
+        "weight": 2
+      },
+      {
+        "identifier": "faq",
+        "name": "FAQ",
+        "url": "/faq/",
+        "weight": 3
+      },
+      {
+        "identifier": "inschrijven",
+        "name": "Inschrijven",
+        "url": "/inschrijven/",
+        "weight": 4
+      }
+    ]
+  }
+}
