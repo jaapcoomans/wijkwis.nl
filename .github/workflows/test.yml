@@ -1,8 +1,8 @@
-name: Build and Deploy to AWS (PRD)
+name: Build and Deploy to AWS (TST)
 
 on:
   push:
-    branches: [ main ]
+    branches: [ test ]
   workflow_dispatch:
 
 jobs:
@@ -27,7 +27,7 @@ jobs:
         uses: reggionick/s3-deploy@v3.1.1
         with:
           folder: public
-          bucket: www.wijkwis.nl
+          bucket: test.wijkwis.nl
           bucket-region: eu-west-1
           dist-id: E21NU73EKXRH80
           invalidation: /*
