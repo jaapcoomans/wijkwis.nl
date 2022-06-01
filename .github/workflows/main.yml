@@ -22,6 +22,7 @@ jobs:
         run: hugo
   deploy:
     runs-on: ubuntu-latest
+    needs: build
     steps:
       - name: Configure AWS Cerdentials
         uses: aws-actions/configure-aws-credentials@v1
