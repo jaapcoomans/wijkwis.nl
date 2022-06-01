@@ -29,6 +29,6 @@ jobs:
           folder: public
           bucket: www.wijkwis.nl
           bucket-region: eu-west-1
-          dist-id: E21NU73EKXRH80
+          dist-id: E2GUI3Q4WELU7C
           invalidation: /*
           delete-removed: true
