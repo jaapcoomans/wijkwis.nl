@@ -3,7 +3,6 @@
   "languageCode": "nl-nl",
   "title": "Wijkwis De Blaak",
   "theme": "congo",
-  "dateFormat": ":date_short",
   "author": {
     "name": "WijKwis De Blaak",
     "image": "images/logo-wijkwis.jpg",
@@ -16,7 +15,8 @@
   "params": {
     "defaultContentLanguage": "nl",
     "defaultAppearance": "dark",
-    "showAppearanceSwitcher": false,
+    "showAppearanceSwitcher": true,
+    "dateFormat": "02-01-2006",
     "list": {
       "showSummary": true
     },
