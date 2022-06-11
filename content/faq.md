@@ -7,7 +7,18 @@ lastmod = '2022-05-25'
 showDateUpdated = true
 +++
 
-### Q: Hoe groot moet mijn team zijn?
-A: Wij adviseren een teamomvang van 10 tot 20 personen.
+#### Hoe groot is een team?
+Wij adviseren een teamomvang van 10 tot 20 personen.
 
 [Meer informatie over team samenstelling](/nieuws/hoe-stel-je-een-team-samen)
+
+#### Moet ik veel van de wijk de Blaak weten om mee te kunnen doen aan de WijKwis?
+Nee, zeker niet. 
+Tijdens de WijKwis krijg je een gevarieerde reeks van kennisvragen, puzzelopdrachten, doe-opdrachten over uiteenlopende onderwerpen. 
+Zeker niet alleen over de Blaak.
+
+#### Mogen er ook deelnemers van buiten de wijk meedoen met WijKwis de Blaak?
+De inschrijver en teamcaptain moet in de Blaak woonachtig zijn. 
+En ook de locatie van waaruit op 15 oktober deelgenomen wordt aan de WijKwis moet in de wijk liggen. 
+Maar daarnaast mag je team ook bestaan uit niet-wijkgenoten. 
+Dus de verhuisde oud straatgenoten, de niet meer thuiswonende kinderen, familieleden en vrienden van buiten de Blaak kunnen gewoon deelnemen in je team.
