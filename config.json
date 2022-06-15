@@ -72,6 +72,12 @@
         "name": "Inschrijven",
         "url": "/inschrijven/",
         "weight": 4
+      },
+      {
+        "identifier": "reglement",
+        "name": "Reglement",
+        "url": "/documenten/wijkwis-reglement.pdf",
+        "weight": 5
       }
     ]
   }
