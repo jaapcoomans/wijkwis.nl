@@ -11,6 +11,12 @@ https://fysiotherapie-ohler.nl/
 
 ---
 
+### Mon Fleur
+https://monfleur.nl/
+![Logo Mon Fleur](/images/logo-monfleur.png)
+
+---
+
 ## Ook sponsor worden?
 Dat kan!
 We bieden de 3 verschillende pakketten aan:
