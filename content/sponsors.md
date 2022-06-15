@@ -19,7 +19,7 @@ https://monfleur.nl/
 
 ## Ook sponsor worden?
 Dat kan!
-We bieden de 3 verschillende pakketten aan:
+We bieden 3 verschillende pakketten aan:
 
 ### Sponsorpakket A
 €50,-
