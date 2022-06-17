@@ -13,4 +13,4 @@ Inschrijven kan op twee manieren:
   De inschrijfavond is van 19:30 tot 21:00.
 
 #### Wil je wel graag meedoen, maar heb je geen volledig team?
-Je kan je dan [hier opgeven](/find-a-team) als geïnteresseerde, zodat wij je kunnen helpen een team te vinden.
+Maak dan gebruik van onze [Find-A-Team](/find-a-team) service, waarmee we je helpen een team te vinden.
