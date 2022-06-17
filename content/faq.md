@@ -22,3 +22,6 @@ De inschrijver en teamcaptain moet in de Blaak woonachtig zijn.
 En ook de locatie van waaruit op 15 oktober deelgenomen wordt aan de WijKwis moet in de wijk liggen. 
 Maar daarnaast mag je team ook bestaan uit niet-wijkgenoten. 
 Dus de verhuisde oud straatgenoten, de niet meer thuiswonende kinderen, familieleden en vrienden van buiten de Blaak kunnen gewoon deelnemen in je team.
+
+#### Ik wil wel mee doen, maar ik kan geen team bij elkaar vinden, wat nu?
+Geen nood! Via onze [Find-A-Team](/find-a-team) service zullen we proberen je te koppelen aan andere enthousiaste wijkbewoners.
