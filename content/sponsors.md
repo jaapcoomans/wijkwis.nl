@@ -23,6 +23,10 @@ https://www.aqraadtilburg.nl/
 
 ---
 
+### Primera De Blaak
+https://www.primera.nl/primera-de-blaak
+![Logo Primera De Blaak](/images/logo-primera.png)
+
 ## Ook sponsor worden?
 Dat kan!
 We bieden 3 verschillende pakketten aan:
