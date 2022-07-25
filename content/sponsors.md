@@ -11,9 +11,15 @@ https://fysiotherapie-ohler.nl/
 
 ---
 
-### Mon Fleur
+### Mon Fleur, Pour toi
 https://monfleur.nl/
-![Logo Mon Fleur](/images/logo-monfleur.png)
+![Logo Mon Fleur, Pour toi](/images/logo-monfleur.png)
+
+---
+
+### aQraad Tilburg BV
+https://www.aqraadtilburg.nl/
+![Logo aQraad Tilburg BV](/images/logo-aqraad.png)
 
 ---
 
