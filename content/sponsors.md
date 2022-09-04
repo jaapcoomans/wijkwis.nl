@@ -27,8 +27,21 @@ https://www.aqraadtilburg.nl/
 https://www.primera.nl/primera-de-blaak
 ![Logo Primera De Blaak](/images/logo-primera.png)
 
+---
+
+### Jumbo Amer Tilburg
+https://www.jumbo.com/winkel/jumbo-tilburg-amer
+![Logo Jumbo](/images/logo-jumbo.png)
+
+---
+
+### Slagerij Van de Zande
+https://www.slagerij-vandezande.nl/
+![Logo Slagerij van de Zande](/images/logo-vandezande.png)
+
 ## Ook sponsor worden?
-Dat kan!
+Dat kan! Neem contact op met [info@blaakquiz.nl](mailto:info@blaakquiz.nl).
+
 We bieden 3 verschillende pakketten aan:
 
 ### Sponsorpakket A
