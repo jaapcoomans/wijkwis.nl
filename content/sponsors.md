@@ -39,6 +39,8 @@ https://www.jumbo.com/winkel/jumbo-tilburg-amer
 https://www.slagerij-vandezande.nl/
 ![Logo Slagerij van de Zande](/images/logo-vandezande.png)
 
+---
+
 ### Jan van Hest Wijnen
 https://www.janvanhestwijnen.nl
 ![Logo Jan van Hest Wijnen](/images/logo-janvanhest.png)
