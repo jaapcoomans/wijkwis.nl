@@ -45,6 +45,8 @@ https://www.slagerij-vandezande.nl/
 https://www.janvanhestwijnen.nl
 ![Logo Jan van Hest Wijnen](/images/logo-janvanhest.png)
 
+---
+
 ## Ook sponsor worden?
 Dat kan! Neem contact op met [info@blaakquiz.nl](mailto:info@blaakquiz.nl).
 
