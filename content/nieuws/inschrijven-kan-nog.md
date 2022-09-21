@@ -13,4 +13,4 @@ Vind meer informatie hier: [Inschrijven](/inschrijven)
 
 Of schrijf je team gewoon direct in via [deze link](https://www.eventbrite.nl/e/registratie-wijkwis-de-blaak-2022-348207035617).
 
-![Inschrijven kan nog!](images/inschrijven-kan-nog-jpg)
+![Inschrijven kan nog!](images/inschrijven-kan-nog.jpg)
