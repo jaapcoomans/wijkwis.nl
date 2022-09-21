@@ -5,6 +5,8 @@ title = 'Inschrijven'
 showDate = false
 +++
 
+# Inschrijven kan t/m 30 September
+
 De inschrijfkosten bedragen €30,- per team.
 
 Inschrijven kan op twee manieren:
