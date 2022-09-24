@@ -26,7 +26,8 @@
     },
     "article": {
       "showReadingTime": false,
-      "showDateUpdated": true
+      "showDateUpdated": true,
+      "showPagination": false
     },
     "social": [
       {
