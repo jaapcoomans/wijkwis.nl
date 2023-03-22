@@ -6,7 +6,7 @@ showDate = false
 +++
 
 ## Sponsor worden?
-Dat kan! Neem contact op met [info@blaakquiz.nl](mailto:info@blaakquiz.nl).
+Dat kan! Neem contact op met [wijkwisdeblaak@gmail.com](mailto:wijkwisdeblaak@gmail.com).
 
 We bieden 3 verschillende pakketten aan:
 
