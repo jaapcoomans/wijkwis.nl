@@ -6,7 +6,7 @@ showDate = false
 +++
 
 Wil je graag meedoen aan de Wijkwis, maar lukt het je niet om een team van minstens 10 personen bij elkaar te vinden? 
-Geen nood! Vul [dit formulier](https://docs.google.com/forms/d/e/1FAIpQLScWfB8GQ5Flc7aCipkKFYTTbLICljwwEQSEmDeyUNdoiy5HCw/viewform?usp=sf_link) in en wij proberen je aan toffe teamgenoten te helpen.
+Geen nood! Vul [dit formulier](https://forms.gle/EuvnoKNUG14VB1We7) in en wij proberen je aan toffe teamgenoten te helpen.
 
 **In 2022 hebben we via deze weg 1 team kunnen samenstellen: de uiteindelijke winnaars van de WijKwis!**
 
