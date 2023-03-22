@@ -5,12 +5,13 @@ title = 'Inschrijven'
 showDate = false
 +++
 
-# Inschrijven kan t/m 30 September
+# Inschrijven kan t/m 24 September
 
 De inschrijfkosten bedragen €50,- per team.
 
 Inschrijven kan op twee manieren:
-* [Online via deze link](https://www.eventbrite.nl/e/registratie-wijkwis-de-blaak-2022-348207035617) (vanaf 21 juni). We brengen dan €2,65 administratiekosten in rekening.
+* [Online via eventbrite](https://www.eventbrite.nl/e/tickets-wijkwis-de-blaak-2023-597230772317) (vanaf 21 juni). 
+  We brengen dan €3,74 administratiekosten in rekening.
 * Tijdens een inschrijfavond in het Sportcafé bij Sporthal De Blaak
   * Woensdag 21 juni van 19:30 tot 21:00
   * Woensdag 13 september van 19:30 tot 21:00 
