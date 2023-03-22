@@ -10,7 +10,7 @@ showDateUpdated = true
 #### Hoe groot is een team?
 Wij adviseren een teamomvang van 10 tot 20 personen.
 
-[Meer informatie over team samenstelling](/nieuws/hoe-stel-je-een-team-samen)
+[Meer informatie over team samenstelling](/nieuws/2022/hoe-stel-je-een-team-samen)
 
 #### Moet ik veel van de wijk de Blaak weten om mee te kunnen doen aan de WijKwis?
 Nee, zeker niet. 
