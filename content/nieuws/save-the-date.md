@@ -5,7 +5,7 @@ tags = ['wijkwis', 'save-the-date']
 title = 'SAVE THE DATE!'
 +++
 
-SAVE THE DATE!
+SAVE THE DATE!!
 We zijn weer terug.
 Met extra versterking in de organisatie en... de datum van de WijKwis: 7 oktober!
 Zet hem dus in je agenda!
