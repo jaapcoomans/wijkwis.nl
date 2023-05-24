@@ -9,7 +9,7 @@ sponsoren
 
 
 
-![Sponsoren](/assets/images/kwisboek.jpg)
+![Sponsoren](/images/logo-jumbo.png)
 
 
 
