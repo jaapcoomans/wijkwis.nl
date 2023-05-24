@@ -7,4 +7,5 @@ title = 'Sponsoren'
 
 sponsoren
 
-{{< img src="/images/logo-jumbo.jpg" >}}
+
+![Sponsoren]("/image/logo-jumbo.png)
