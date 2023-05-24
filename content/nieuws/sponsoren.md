@@ -8,6 +8,6 @@ title = 'Sponsoren'
 sponsoren
 
 
-![Sponsoren]("/image/logo-jumbo.png")
+![Sponsoren](/assets/images/kwisboek.jpg)
 
-![Sponsoren2](sportcafe.jpg)
+
