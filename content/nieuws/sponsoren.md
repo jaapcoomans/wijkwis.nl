@@ -7,4 +7,4 @@ title = 'Sponsoren'
 
 sponsoren
 
-{{< audio src="/images/logo-jumbo.jpg" >}}
+{{< image src="/images/logo-jumbo.jpg" >}}
