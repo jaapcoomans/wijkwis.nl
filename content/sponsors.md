@@ -1,11 +1,26 @@
-+++
-description = 'Sponsors'
-slug = 'sponsors'
-title = 'Sponsors'
-showDate = false
-+++
+## Wijkwis de Blaak wordt mede mogelijk gemaakt door:
 
-## Sponsor worden?
+### Fysiotherapie Ohler
+https://fysiotherapie-ohler.nl
+<!--![Ohler](images/ohler.jpg)-->
+
+
+### aQraad administratie
+https://www.aqraadtilburg.nl/
+<!--![aQraad](images/aqraad.jpg)-->
+
+
+### Bakkerij Kriellaars
+https://www.facebook.com/BakkerijKriellaars/
+<!--![Kriellaars](images/kriellaars.jpeg)-->
+
+
+### Mevio Schoenen
+https://www.mevio-tilburg.nl/
+<!--![Mevio](images/mevio.png)-->
+
+
+## Ook sponsor worden?
 Dat kan! Neem contact op met [wijkwisdeblaak@gmail.com](mailto:wijkwisdeblaak@gmail.com).
 
 We bieden 3 verschillende pakketten aan:
