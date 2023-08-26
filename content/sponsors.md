@@ -1,3 +1,11 @@
++++
+description = 'Sponsors'
+slug = 'sponsors'
+title = 'Sponsors'
+showDate = false
++++
+
+
 ## Wijkwis de Blaak wordt mede mogelijk gemaakt door:
 
 ### Fysiotherapie Ohler
