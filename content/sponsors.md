@@ -6,26 +6,6 @@ showDate = false
 +++
 
 
-## Wijkwis de Blaak wordt mede mogelijk gemaakt door:
-
-### Fysiotherapie Ohler
-https://fysiotherapie-ohler.nl
-<!--![Ohler](images/ohler.jpg)-->
-
-
-### aQraad administratie
-https://www.aqraadtilburg.nl/
-<!--![aQraad](images/aqraad.jpg)-->
-
-
-### Bakkerij Kriellaars
-https://www.facebook.com/BakkerijKriellaars/
-<!--![Kriellaars](images/kriellaars.jpeg)-->
-
-
-### Mevio Schoenen
-https://www.mevio-tilburg.nl/
-<!--![Mevio](images/mevio.png)-->
 
 
 ## Ook sponsor worden?
