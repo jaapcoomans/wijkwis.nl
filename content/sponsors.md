@@ -13,6 +13,18 @@ http://www.s-kemmeren.nl/
 
 ---
 
+### Keukensale Den Bosch
+https://www.keukensale.com/winkels/keukensale-den-bosch/
+![Logo Keukensale](/images/logo-keukensale.png)
+
+---
+
+### Logopediepraktijk Tilburg
+http://www.s-kemmeren.nl/
+![Logo Logopediepraktijk Tilburg](/images/logo-logopediepraktijk-tilburg.jpg)
+
+---
+
 ## Ook sponsor worden?
 Dat kan! Neem contact op met [wijkwisdeblaak@gmail.com](mailto:wijkwisdeblaak@gmail.com).
 
