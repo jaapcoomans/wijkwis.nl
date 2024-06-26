@@ -5,8 +5,13 @@ title = 'Sponsors'
 showDate = false
 +++
 
+---
 
+### Bouwbedrijf S. Kemmeren
+http://www.s-kemmeren.nl/
+![Logo Bouwbedrijf S. Kemmeren](/images/logo-bouwbedrijf-kemmer.png)
 
+---
 
 ## Ook sponsor worden?
 Dat kan! Neem contact op met [wijkwisdeblaak@gmail.com](mailto:wijkwisdeblaak@gmail.com).
