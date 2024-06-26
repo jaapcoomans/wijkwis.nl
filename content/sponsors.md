@@ -5,8 +5,6 @@ title = 'Sponsors'
 showDate = false
 +++
 
----
-
 ### Bouwbedrijf S. Kemmeren
 http://www.s-kemmeren.nl/
 ![Logo Bouwbedrijf S. Kemmeren](/images/logo-bouwbedrijf-kemmeren.png)
@@ -24,6 +22,20 @@ https://www.logopediepraktijktilburg.nl/
 ![Logo Logopediepraktijk Tilburg](/images/logo-logopediepraktijk-tilburg.jpg)
 
 ---
+
+### Fysiotherapie Ohler
+https://fysiotherapie-ohler.nl/
+![Logo Fysiotherapie Ohler](/images/logo-ohler.png)
+
+---
+
+### Mevio Schoenen
+https://www.mevio-tilburg.nl/
+
+---
+
+### Logopediepraktijk van Gogh
+https://logopedievangogh.nl/
 
 ## Ook sponsor worden?
 Dat kan! Neem contact op met [wijkwisdeblaak@gmail.com](mailto:wijkwisdeblaak@gmail.com).
