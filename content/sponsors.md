@@ -37,6 +37,8 @@ https://www.mevio-tilburg.nl/
 ### Logopediepraktijk van Gogh
 https://logopedievangogh.nl/
 
+---
+
 ## Ook sponsor worden?
 Dat kan! Neem contact op met [wijkwisdeblaak@gmail.com](mailto:wijkwisdeblaak@gmail.com).
 
