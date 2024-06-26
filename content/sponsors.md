@@ -9,7 +9,7 @@ showDate = false
 
 ### Bouwbedrijf S. Kemmeren
 http://www.s-kemmeren.nl/
-![Logo Bouwbedrijf S. Kemmeren](/images/logo-bouwbedrijf-kemmer.png)
+![Logo Bouwbedrijf S. Kemmeren](/images/logo-bouwbedrijf-kemmeren.png)
 
 ---
 
