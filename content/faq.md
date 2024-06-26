@@ -19,7 +19,7 @@ Zeker niet alleen over de Blaak.
 
 #### Mogen er ook deelnemers van buiten de wijk meedoen met WijKwis de Blaak?
 De inschrijver en teamcaptain moet in de Blaak woonachtig zijn. 
-En ook de locatie van waaruit op 7 oktober deelgenomen wordt aan de WijKwis moet in de wijk liggen. 
+En ook de locatie van waaruit deelgenomen wordt aan de WijKwis moet in de wijk liggen. 
 Maar daarnaast mag je team ook bestaan uit niet-wijkgenoten. 
 Dus de verhuisde oud straatgenoten, de niet meer thuiswonende kinderen, familieleden en vrienden van buiten de Blaak kunnen gewoon deelnemen in je team.
 
