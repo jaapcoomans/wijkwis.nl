@@ -20,7 +20,7 @@ https://www.keukensale.com/winkels/keukensale-den-bosch/
 ---
 
 ### Logopediepraktijk Tilburg
-http://www.s-kemmeren.nl/
+https://www.logopediepraktijktilburg.nl/
 ![Logo Logopediepraktijk Tilburg](/images/logo-logopediepraktijk-tilburg.jpg)
 
 ---
