@@ -61,5 +61,6 @@ We bieden 3 verschillende pakketten aan:
 €150,-
 * Logo in het Kwisboek
 * Logo op de website
+* Naamsvermelding op social media
 * Eigen sponsor-vraag of opdracht
 * Advertentiepost (met link) op Instagram
