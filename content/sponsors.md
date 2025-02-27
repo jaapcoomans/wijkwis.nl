@@ -46,7 +46,7 @@ We bieden 3 verschillende pakketten aan:
 
 ### Sponsorpakket A
 €50,-
-* Naamsvermelding in het Kwisboek
+* Logo in het Kwisboek
 * Naamsvermelding op de website
 * Naamsvermelding op social media
 
