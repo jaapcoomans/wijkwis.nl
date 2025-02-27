@@ -5,41 +5,15 @@ title = 'Sponsors'
 showDate = false
 +++
 
-### Bouwbedrijf S. Kemmeren
-http://www.s-kemmeren.nl/
-![Logo Bouwbedrijf S. Kemmeren](/images/logo-bouwbedrijf-kemmeren.png)
+## Wordt jij onze nieuwe sponsor?
+
+[Klik hier voor meer informatie](#sponsor-worden)
 
 ---
 
-### Keukensale Den Bosch
-https://www.keukensale.com/winkels/keukensale-den-bosch/
-![Logo Keukensale](/images/logo-keukensale.png)
-
 ---
 
-### Logopediepraktijk Tilburg
-https://www.logopediepraktijktilburg.nl/
-![Logo Logopediepraktijk Tilburg](/images/logo-logopediepraktijk-tilburg.jpg)
-
----
-
-### Fysiotherapie Ohler
-https://fysiotherapie-ohler.nl/
-![Logo Fysiotherapie Ohler](/images/logo-ohler.png)
-
----
-
-### Mevio Schoenen
-https://www.mevio-tilburg.nl/
-
----
-
-### Logopediepraktijk van Gogh
-https://logopedievangogh.nl/
-
----
-
-## Ook sponsor worden?
+## Sponsor worden?
 Dat kan! Neem contact op met [wijkwisdeblaak@gmail.com](mailto:wijkwisdeblaak@gmail.com).
 
 We bieden 3 verschillende pakketten aan:
