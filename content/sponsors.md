@@ -5,7 +5,7 @@ title = 'Sponsors'
 showDate = false
 +++
 
-## Wordt jij onze nieuwe sponsor?
+## Word jij onze nieuwe sponsor?
 
 [Klik hier voor meer informatie](#sponsor-worden)
 
