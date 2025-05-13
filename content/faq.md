@@ -3,7 +3,7 @@ description = 'Veel gestelde vragen'
 slug = 'faq'
 title = 'FAQ'
 showDate = false
-lastmod = '2022-05-25'
+lastmod = '2025-05-13'
 showDateUpdated = true
 +++
 
@@ -25,3 +25,6 @@ Dus de verhuisde oud straatgenoten, de niet meer thuiswonende kinderen, familiel
 
 #### Ik wil wel mee doen, maar ik kan geen team bij elkaar vinden, wat nu?
 Geen nood! Via onze [Find-A-Team](/find-a-team) service zullen we proberen je te koppelen aan andere enthousiaste wijkbewoners.
+
+#### Hoeveel vragen stonden er ik het Kwisboek van 2022?
+113
