@@ -26,5 +26,5 @@ Dus de verhuisde oud straatgenoten, de niet meer thuiswonende kinderen, familiel
 #### Ik wil wel mee doen, maar ik kan geen team bij elkaar vinden, wat nu?
 Geen nood! Via onze [Find-A-Team](/find-a-team) service zullen we proberen je te koppelen aan andere enthousiaste wijkbewoners.
 
-#### Hoeveel vragen stonden er ik het Kwisboek van 2022?
+#### Hoeveel vragen stonden er in het Kwisboek van 2022?
 113
