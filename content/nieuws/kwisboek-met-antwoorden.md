@@ -1,14 +1,13 @@
 +++
-date = '2024-10-14'
-slug = 'kwisboek-met-antwoorden-2024'
+date = '2025-10-06'
+slug = 'kwisboek-met-antwoorden-2025'
 tags = ['wijkwis', 'kwisboek', 'antwoorden']
-title = 'Kwisboek met antwoorden 2024'
+title = 'Kwisboek met antwoorden 2025'
 +++
 
-Het was weer een mooie WijKwis dit jaar.
-We hebben al heel veel leuke reacties van jullie mogen ontvangen.
-Maar de meest gestelde vraag blijft toch met afstand: "Krijgen we de goede antwoorden nog?"
-En natuurlijk krijgen jullie die! 
-Download het KwisBoek met alle antwoorden hieronder om te zien waar jullie nou de meeste punten mee hebben gepakt of laten liggen.
+Alle team wederom hartelijk bedankt voor jullie enthousiaste deelname!
+Mede dankzij jullie is het weer een mooie editie van de WijKwis geworden.
+En nu zijn jullie natuurlijk nieuwsgierig naar wat de juiste antwoorden waren.
+Dat begrijpen wij helemaal, dus vanaf nu is het Kwisboek _met_ de goede antwoorden hieronder te downloaden.
 
-[Download KwisBoek 2024 met alle antwoorden](/documenten/kwisboek-2024-met-antwoorden.pdf)
+[Download het KwisBoek 2025 met alle antwoorden](/documenten/kwisboek-2025-met-antwoorden.pdf)
