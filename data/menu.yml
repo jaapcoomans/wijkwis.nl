@@ -1,0 +1,7 @@
+items:
+  - title: "Over de WijKwis"
+    path: "/about"
+    icon: "fa-regular fa-newspaper"
+  - title: "Sponsors"
+    path: "/sponsors"
+    icon: "fa-solid fa-money-bill-wave"

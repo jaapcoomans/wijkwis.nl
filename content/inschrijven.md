@@ -1,9 +1,9 @@
-+++
-description = 'Inschrijven'
-slug = 'inschrijven'
-title = 'Inschrijven'
-showDate = false
-+++
+---
+description: 'Inschrijven'
+slug: 'inschrijven'
+title: 'Inschrijven'
+showDate: false
+---
 
 # Inschrijven kan t/m zaterdag 20 September 2025
 

@@ -1,11 +1,11 @@
-+++
-description = 'Veel gestelde vragen'
-slug = 'faq'
-title = 'FAQ'
-showDate = false
-lastmod = '2025-05-13'
-showDateUpdated = true
-+++
+---
+description: 'Veel gestelde vragen'
+slug: 'faq'
+title: 'FAQ'
+showDate: false
+lastmod: '2025-05-13'
+showDateUpdated: true
+---
 
 #### Hoe groot is een team?
 Wij adviseren een teamomvang van 10 tot 20 personen.

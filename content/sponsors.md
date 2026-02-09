@@ -1,9 +1,10 @@
-+++
-description = 'Sponsors'
-slug = 'sponsors'
-title = 'Sponsors'
-showDate = false
-+++
+---
+description: 'Sponsors'
+slug: 'sponsors'
+title: 'Sponsors'
+showDate: false
+---
+# Sponsors
 
 ## Word jij onze nieuwe sponsor?
 
