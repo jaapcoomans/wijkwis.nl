@@ -46,6 +46,20 @@
             <artifactId>quarkus-roq-theme-default</artifactId>
             <version>${quarkus-roq.version}</version>
         </dependency>
+        <dependency>
+            <groupId>org.webjars</groupId>
+            <artifactId>bootstrap</artifactId>
+            <version>5.3.3</version>
+        </dependency>
+        <dependency>
+            <groupId>org.webjars</groupId>
+            <artifactId>font-awesome</artifactId>
+            <version>6.4.0</version>
+        </dependency>
+        <dependency>
+            <groupId>io.quarkus</groupId>
+            <artifactId>quarkus-webjars-locator</artifactId>
+        </dependency>
     </dependencies>
 
     <build>
