@@ -2,7 +2,7 @@ name: Build and Deploy to AWS (TST)
 
 on:
   push:
-    branches: [ test ]
+    branches: [ roq ]
   workflow_dispatch:
 
 jobs:
@@ -15,18 +15,20 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2.4.13
+      - name: Setup Java
+        uses: actions/setup-java@v3
         with:
-          hugo-version: '0.99.1'
+          java-version: '25'
+          distribution: 'temurin'
+          cache: maven
 
       - name: Build
-        run: hugo
+        run: QUARKUS_ROQ_GENERATOR_BATCH=true mvn -B -q package quarkus:run
 
       - name: S3 Deploy
         uses: reggionick/s3-deploy@v3.1.1
         with:
-          folder: public
+          folder: target/roq
           bucket: test.wijkwis.nl
           bucket-region: eu-west-1
           dist-id: E21NU73EKXRH80
