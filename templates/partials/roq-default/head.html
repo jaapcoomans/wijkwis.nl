@@ -1,0 +1,255 @@
+{@io.quarkiverse.roq.frontmatter.runtime.model.Page page}
+{@io.quarkiverse.roq.frontmatter.runtime.model.Site site}
+
+<meta charset="utf-8">
+
+{#seo page site /}
+{#rss site /}
+{#favicon site/}
+
+<base href="{page.url.relative}">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<meta name="theme-color" content="#2397BB">
+
+<title>{#insert title}{page.title}{/insert} - WijKwis De Blaak</title>
+
+<!-- Bootstrap CSS -->
+<link href="/webjars/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<!-- Font Awesome -->
+<link rel="stylesheet" href="/webjars/font-awesome/css/all.min.css">
+
+<style>
+    /* Font definitions */
+    @font-face {
+        font-family: 'TilburgsAns';
+        src: url('/fonts/tilburgsans/TilburgsAns-Regular.woff') format('woff');
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    @font-face {
+        font-family: 'TilburgsAns';
+        src: url('/fonts/tilburgsans/TilburgsAns-Bold.woff') format('woff');
+        font-weight: bold;
+        font-style: normal;
+    }
+
+    @font-face {
+        font-family: 'TilburgsAnsText';
+        src: url('/fonts/tilburgsans-text/TilburgsAnsText-Regular.woff2') format('woff2'),
+             url('/fonts/tilburgsans-text/TilburgsAnsText-Regular.woff') format('woff');
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    @font-face {
+        font-family: 'TilburgsAnsText';
+        src: url('/fonts/tilburgsans-text/TilburgsAnsText-Bold.woff2') format('woff2'),
+             url('/fonts/tilburgsans-text/TilburgsAnsText-Bold.woff') format('woff');
+        font-weight: bold;
+        font-style: normal;
+    }
+
+    body {
+        padding-top: 130px;
+        font-family: 'TilburgsAnsText', 'Inter', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        color: #2d3436;
+        background-color: #fdfdfd;
+    }
+
+    /* Navbar Styling */
+    .navbar {
+        transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+        padding: 10px 0;
+        background-color: #2397BB !important;
+        box-shadow: 0 2px 15px rgba(0,0,0,0.1);
+    }
+
+    .navbar.scrolled {
+        padding: 10px 0;
+        background-color: rgba(35, 151, 187, 0.95) !important;
+        backdrop-filter: blur(10px);
+    }
+
+    .navbar-brand img {
+        height: 100px;
+        width: 100px;
+        object-fit: contain;
+        transition: all 0.4s ease;
+        margin-right: 15px;
+        border: 0.5px solid white;
+        border-radius: 50%;
+        background-color: white;
+        padding: 2px;
+        filter: none !important; 
+    }
+
+    .navbar.scrolled .navbar-brand img {
+        height: 54px;
+        width: 54px;
+        border-width: 1px;
+    }
+
+    .navbar-brand-text {
+        font-family: 'TilburgsAns', sans-serif;
+        font-weight: 800;
+        font-size: 1.95rem;
+        color: white;
+        vertical-align: middle;
+        transition: all 0.4s ease;
+    }
+
+    .navbar.scrolled .navbar-brand-text {
+        font-size: 1.55rem;
+    }
+
+    .nav-link {
+        font-family: 'TilburgsAns', sans-serif;
+        font-weight: 600;
+        font-size: 1.3rem;
+        color: white !important;
+        margin: 0 10px;
+        position: relative;
+        transition: opacity 0.3s ease;
+    }
+
+    .nav-link:hover {
+        opacity: 0.8;
+    }
+
+    .nav-link::after {
+        content: '';
+        position: absolute;
+        width: 0;
+        height: 2px;
+        bottom: 0;
+        left: 50%;
+        background-color: #BB3723;
+        transition: all 0.3s ease;
+        transform: translateX(-50%);
+    }
+
+    .nav-link:hover::after {
+        width: 80%;
+    }
+
+    /* Hero Section Styling */
+    .hero-section {
+        background: #BB3723;
+        padding: 30px 20px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        text-align: center;
+        border-radius: 20px;
+        box-shadow: 0 10px 25px rgba(187, 55, 35, 0.15);
+        color: white;
+    }
+
+    .hero-section h1 {
+        font-family: 'TilburgsAns', sans-serif;
+        color: white;
+        font-weight: 800;
+        font-size: 1.75rem;
+        margin-bottom: 5px;
+        text-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+
+    .event-date {
+        font-family: 'TilburgsAns', sans-serif;
+        font-size: 2.2rem;
+        font-weight: 800;
+        color: white;
+        margin: 5px 0 20px 0;
+        letter-spacing: -0.5px;
+        text-shadow: 0 2px 10px rgba(0,0,0,0.2);
+    }
+
+    .btn-cta {
+        font-family: 'TilburgsAns', sans-serif;
+        background-color: white;
+        color: #BB3723;
+        font-weight: 700;
+        padding: 10px 30px;
+        border-radius: 50px;
+        border: 2px solid white;
+        transition: all 0.3s ease;
+        text-transform: uppercase;
+        font-size: 0.9rem;
+        letter-spacing: 1px;
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+        text-decoration: none;
+        display: inline-block;
+    }
+
+    .btn-cta:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+        color: #BB3723;
+        background-color: #f8f9fa;
+    }
+
+    .page-content {
+        max-width: 750px;
+        margin-left: auto;
+        margin-right: auto;
+        line-height: 1.8;
+        font-size: 1.1rem;
+    }
+
+    .page-content h1 {
+        font-family: 'TilburgsAns', sans-serif;
+        color: #2397BB;
+        font-weight: 800;
+        margin-top: 40px;
+        margin-bottom: 25px;
+        position: relative;
+        display: inline-block;
+    }
+
+    .page-content h1::after {
+        content: '';
+        position: absolute;
+        bottom: -8px;
+        left: 0;
+        width: 60px;
+        height: 4px;
+        background-color: #BB3723;
+        border-radius: 2px;
+    }
+
+    .page-content h2 {
+        font-family: 'TilburgsAns', sans-serif;
+        color: #2397BB;
+        font-weight: 700;
+        margin-top: 35px;
+        margin-bottom: 15px;
+    }
+
+    .social-icons a {
+        font-size: 1.8rem;
+        margin: 0 15px;
+        color: #636e72;
+        transition: all 0.3s ease;
+        display: inline-block;
+    }
+
+    .social-icons a:hover {
+        color: #2397BB;
+        transform: translateY(-5px);
+    }
+
+    footer {
+        padding: 60px 0;
+        background-color: #2d3436;
+        color: #dfe6e9;
+        margin-top: 100px;
+    }
+</style>
+
+{#bundle /}
+
+{#if site.data.containsKey("analytics")}
+{#ga4 tag=site.data.getJsonObject('analytics').getString("ga4", "") /}
+{/if}

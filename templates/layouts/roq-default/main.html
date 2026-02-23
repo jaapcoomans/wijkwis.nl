@@ -1,0 +1,27 @@
+---
+layout: roq-default/default
+---
+
+{@io.quarkiverse.roq.frontmatter.runtime.model.Site site}
+
+{#insert menu}{#include partials/roq-default/navbar menu=cdi:menu.items /}{/}
+
+<div class="container">
+    <main class="content-reader-width">
+        {#insert /}
+    </main>
+    <div class="social-links text-center mt-5 pt-5">
+        <h3 class="mb-4 fw-bold">Volg ons op social media</h3>
+        <div class="social-icons">
+            {#for entry in brand.entrySet()}
+                {#if site.data.get(entry.key)??}
+                    <a href="{entry.value.prefix()}{site.data.get(entry.key)}" target="_blank">
+                        <i class="{entry.value.icon()}" aria-hidden="true"></i>
+                    </a>
+                {/if}
+            {/for}
+        </div>
+    </div>
+</div>
+
+{#include partials/roq-default/footer.html /}

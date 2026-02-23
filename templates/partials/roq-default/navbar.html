@@ -1,0 +1,25 @@
+{@io.quarkiverse.roq.frontmatter.runtime.model.Site site}
+{@java.util.List<io.vertx.core.json.JsonObject> menu}
+    
+<!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-dark fixed-top">
+    <div class="container">
+        <a class="navbar-brand d-flex align-items-center" href="/">
+            <!-- Logo -->
+            <img src="/images/logo.png" alt="WijKwis Logo">
+            <span class="navbar-brand-text">WijKwis De Blaak</span>
+        </a>
+        <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ms-auto flex-row">
+                {#for item in menu}
+                <li class="nav-item">
+                    <a class="nav-link" href="{site.url(item.path)}" {#if item.target??}target="{item.target}"{/if}>{#if item.icon??}<i class="{item.icon}"></i> {/if}{item.title}</a>
+                </li>
+                {/for}
+            </ul>
+        </div>
+    </div>
+</nav>
