@@ -17,6 +17,9 @@
 
         <quarkus.platform.version>3.31.2</quarkus.platform.version>
         <quarkus-roq.version>2.0.4</quarkus-roq.version>
+        
+        <bootstrap.version>5.3.3</bootstrap.version>
+        <font-awesome.version>6.4.0</font-awesome.version>
     </properties>
 
     <dependencyManagement>
@@ -49,12 +52,12 @@
         <dependency>
             <groupId>org.webjars</groupId>
             <artifactId>bootstrap</artifactId>
-            <version>5.3.3</version>
+            <version>${bootstrap.version}</version>
         </dependency>
         <dependency>
             <groupId>org.webjars</groupId>
             <artifactId>font-awesome</artifactId>
-            <version>6.4.0</version>
+            <version>${font-awesome.version}</version>
         </dependency>
         <dependency>
             <groupId>io.quarkus</groupId>
@@ -75,6 +78,50 @@
                 <version>3.14.1</version>
                 <configuration>
                     <parameters>true</parameters>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-dependency-plugin</artifactId>
+                <version>3.7.0</version>
+                <executions>
+                    <execution>
+                        <id>unpack-webjars</id>
+                        <phase>package</phase>
+                        <goals>
+                            <goal>unpack</goal>
+                        </goals>
+                    </execution>
+                </executions>
+                <configuration>
+                    <artifactItems>
+                        <artifactItem>
+                            <groupId>org.webjars</groupId>
+                            <artifactId>bootstrap</artifactId>
+                            <version>${bootstrap.version}</version>
+                            <outputDirectory>${project.build.directory}/roq/webjars</outputDirectory>
+                            <includes>META-INF/resources/webjars/**</includes>
+                            <fileMappers>
+                                <org.codehaus.plexus.components.io.filemappers.RegExpFileMapper>
+                                    <pattern>^\QMETA-INF/resources/webjars/bootstrap/${bootstrap.version}\E</pattern>
+                                    <replacement>bootstrap</replacement>
+                                </org.codehaus.plexus.components.io.filemappers.RegExpFileMapper>
+                            </fileMappers>
+                        </artifactItem>
+                        <artifactItem>
+                            <groupId>org.webjars</groupId>
+                            <artifactId>font-awesome</artifactId>
+                            <version>${font-awesome.version}</version>
+                            <outputDirectory>${project.build.directory}/roq/webjars</outputDirectory>
+                            <includes>META-INF/resources/webjars/**</includes>
+                            <fileMappers>
+                                <org.codehaus.plexus.components.io.filemappers.RegExpFileMapper>
+                                    <pattern>^\QMETA-INF/resources/webjars/font-awesome/${font-awesome.version}\E</pattern>
+                                    <replacement>font-awesome</replacement>
+                                </org.codehaus.plexus.components.io.filemappers.RegExpFileMapper>
+                            </fileMappers>
+                        </artifactItem>
+                    </artifactItems>
                 </configuration>
             </plugin>
         </plugins>
