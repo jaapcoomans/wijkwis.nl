@@ -23,7 +23,7 @@ jobs:
           cache: maven
 
       - name: Build
-        run: QUARKUS_ROQ_GENERATOR_BATCH=true mvn -B -q package quarkus:run
+        run: QUARKUS_ROQ_GENERATOR_BATCH=true mvn -B -q package quarkus:run dependency:unpack
 
       - name: S3 Deploy
         uses: reggionick/s3-deploy@v3.1.1

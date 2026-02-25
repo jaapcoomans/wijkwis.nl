@@ -84,15 +84,6 @@
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-dependency-plugin</artifactId>
                 <version>3.7.0</version>
-                <executions>
-                    <execution>
-                        <id>unpack-webjars</id>
-                        <phase>package</phase>
-                        <goals>
-                            <goal>unpack</goal>
-                        </goals>
-                    </execution>
-                </executions>
                 <configuration>
                     <artifactItems>
                         <artifactItem>
@@ -101,6 +92,7 @@
                             <version>${bootstrap.version}</version>
                             <outputDirectory>${project.build.directory}/roq/webjars</outputDirectory>
                             <includes>META-INF/resources/webjars/**</includes>
+                            <overWrite>true</overWrite>
                             <fileMappers>
                                 <org.codehaus.plexus.components.io.filemappers.RegExpFileMapper>
                                     <pattern>^\QMETA-INF/resources/webjars/bootstrap/${bootstrap.version}\E</pattern>
@@ -114,6 +106,7 @@
                             <version>${font-awesome.version}</version>
                             <outputDirectory>${project.build.directory}/roq/webjars</outputDirectory>
                             <includes>META-INF/resources/webjars/**</includes>
+                            <overWrite>true</overWrite>
                             <fileMappers>
                                 <org.codehaus.plexus.components.io.filemappers.RegExpFileMapper>
                                     <pattern>^\QMETA-INF/resources/webjars/font-awesome/${font-awesome.version}\E</pattern>
