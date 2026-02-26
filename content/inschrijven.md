@@ -33,8 +33,8 @@ Ben je klaar om met je vrienden, buren of familie de strijd aan te gaan? Of wil 
 
 Deelname aan de WijKwis is niet alleen ontzettend leuk, maar ook heel voordelig, zeker als je er vroeg bij bent!
 
-*   **Early-bird tarief:** Schrijf je team in voor **1 juni** en betaal slechts **€50**.
-*   **Regulier tarief:** Na 1 juni bedragen de kosten **€60** per team.
+*   **Early-bird tarief:** Schrijf je team in voor **1 juni** en betaal slechts **€60**.
+*   **Regulier tarief:** Na 1 juni bedragen de kosten **€75** per team.
 
 ***
 
