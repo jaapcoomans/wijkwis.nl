@@ -7,6 +7,8 @@ lastmod: '2025-05-13'
 layout: :theme/page
 ---
 
+# Veel gestelde vragen
+
 #### Hoe groot is een team?
 Wij adviseren een teamomvang van 8 tot 12 personen.
 Bij voorgaande edities gingen we uit van 15 tot 20 personen, maar dit bleek voor velen een te grote uitdaging.
