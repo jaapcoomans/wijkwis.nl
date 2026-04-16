@@ -35,12 +35,23 @@ Ben je klaar om met je vrienden, buren of familie de strijd aan te gaan? Of wil 
     </div>
 </div>
 
+<div class="card border-0 shadow-sm mb-5" style="background-color: #f8f9fa; border-left: 5px solid #2397BB !important;">
+    <div class="card-body">
+        <h3 class="h4 fw-bold" style="color: #2397BB;"><i class="fas fa-child me-2"></i> WijKwis Junior</h3>
+        <p>Speciaal voor de jonge speurders van 8 tot 12 jaar! Vorm een team van 4 of 5 kinderen en een volwassen begeleider. Een middag vol spanning, plezier en uitdagende vragen voor de jonge wijkbewoners. </p>
+        <div class="pt-2">
+            <a href="https://forms.gle/1hWF869Q7cQF9DDPA" target="_blank" class="btn btn-lg btn-warning fw-bold">Junior inschrijven</a>
+        </div>
+    </div>
+</div>
+
 <h3 class="h4 fw-bold" style="color: #2397BB;">Kosten & Deelname</h3>
 
 Deelname aan de WijKwis is niet alleen ontzettend leuk, maar ook heel voordelig, zeker als je er vroeg bij bent!
 
 *   **Early-bird tarief:** Schrijf je team in uiterlijk **18 juni** en betaal slechts **€60**.
 *   **Regulier tarief:** Na 18 juni bedragen de kosten **€75** per team.
+*   **WijKwis Junior:** **€10** per team.
 
 ***
 
