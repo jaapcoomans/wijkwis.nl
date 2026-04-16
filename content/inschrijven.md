@@ -39,8 +39,8 @@ Ben je klaar om met je vrienden, buren of familie de strijd aan te gaan? Of wil 
 
 Deelname aan de WijKwis is niet alleen ontzettend leuk, maar ook heel voordelig, zeker als je er vroeg bij bent!
 
-*   **Early-bird tarief:** Schrijf je team in voor **1 juni** en betaal slechts **€60**.
-*   **Regulier tarief:** Na 1 juni bedragen de kosten **€75** per team.
+*   **Early-bird tarief:** Schrijf je team in uiterlijk **18 juni** en betaal slechts **€60**.
+*   **Regulier tarief:** Na 18 juni bedragen de kosten **€75** per team.
 
 ***
 
@@ -50,4 +50,7 @@ Je kunt je direct online aanmelden via de knoppen hierboven. Heb je liever perso
 
 <div class="alert shadow-sm border-0 bg-light">
     <i class="fas fa-calendar-alt me-2 text-primary"></i> <strong>Inschrijfavond:</strong> Donderdag 18 juni in het Sportcafé.
+</div>
+<div class="alert shadow-sm border-0 bg-light">
+    <i class="fas fa-calendar-alt me-2 text-primary"></i> <strong>Deadline inschrijving:</strong> Zondag 20 september 23:59
 </div>
