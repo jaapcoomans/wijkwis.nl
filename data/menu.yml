@@ -5,5 +5,7 @@ items:
     path: "/sponsors"
   - title: "Inschrijven"
     path: "/inschrijven"
+  - title: "Junior"
+    path: "/junior"
   - title: "Veel gestelde vragen"
     path: "/faq"

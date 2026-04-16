@@ -35,12 +35,12 @@ Ben je klaar om met je vrienden, buren of familie de strijd aan te gaan? Of wil 
     </div>
 </div>
 
-<div class="card border-0 shadow-sm mb-5" style="background-color: #f8f9fa; border-left: 5px solid #2397BB !important;">
+<div class="card border-0 shadow-sm mb-5" style="background-color: #fffde7; border-left: 5px solid #ffc107 !important;">
     <div class="card-body">
-        <h3 class="h4 fw-bold" style="color: #2397BB;"><i class="fas fa-child me-2"></i> WijKwis Junior</h3>
-        <p>Speciaal voor de jonge speurders van 8 tot 12 jaar! Vorm een team van 4 of 5 kinderen en een volwassen begeleider. Een middag vol spanning, plezier en uitdagende vragen voor de jonge wijkbewoners. </p>
+        <h3 class="h4 fw-bold" style="color: #856404;"><i class="fas fa-child me-2"></i> WijKwis Junior</h3>
+        <p style="color: #856404;">Speciaal voor de jonge speurders van 8 tot 12 jaar! Vorm een team van 4 of 5 kinderen en een volwassen begeleider. Een middag vol spanning, plezier en uitdagende vragen op een centrale locatie. <a href="/junior" class="text-decoration-none fw-bold" style="color: #856404; text-decoration: underline !important;">Lees meer...</a></p>
         <div class="pt-2">
-            <a href="https://forms.gle/1hWF869Q7cQF9DDPA" target="_blank" class="btn btn-lg btn-warning fw-bold">Junior inschrijven</a>
+            <a href="https://forms.gle/1hWF869Q7cQF9DDPA" target="_blank" class="btn btn-lg btn-warning fw-bold shadow-sm" style="color: #212529; background-color: #ffc107; border-color: #ffc107;">Junior inschrijven</a>
         </div>
     </div>
 </div>
