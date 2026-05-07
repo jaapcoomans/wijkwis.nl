@@ -12,15 +12,15 @@ layout: :theme/page
 </div>
 
 <h3 style="color: #856404;"><i class="fas fa-users me-2"></i> Hoe werkt het?</h3>
-Een team voor de WijKwis Junior bestaat uit **4 of 5 kinderen**. Omdat veiligheid en een beetje hulp natuurlijk belangrijk zijn, moet elk team worden vergezeld door een **volwassen begeleider (coach)**. 
+Een team voor de WijKwis Junior bestaat uit <strong>4 of 5 kinderen</strong>. Omdat veiligheid en een beetje hulp natuurlijk belangrijk zijn, moet elk team worden vergezeld door een <strong>volwassen begeleider (coach)</strong>. 
 
 In tegenstelling tot de reguliere WijKwis, waarbij de teams vanuit hun eigen thuisbasis opereren, verzamelen alle Junior-teams zich op **één centrale locatie** in de wijk. Vanuit daar gaan jullie gezamenlijk de strijd aan.
 
 <h3 style="color: #856404;"><i class="fas fa-clock me-2"></i> Tijdstip en Programma</h3>
-De WijKwis Junior vindt plaats op dezelfde dag als de reguliere WijKwis. We beginnen om stipt **14:00 uur** en het programma duurt tot **16:00 uur**. Het is dus de perfecte opwarmer voor de wijk voordat het avondprogramma losbarst!
+De WijKwis Junior vindt plaats op dezelfde dag als de reguliere WijKwis. We beginnen om stipt <strong>14:00 uur</strong> en het programma duurt tot <strong>16:00 uur</strong>. Het is dus de perfecte opwarmer voor de wijk voordat het avondprogramma losbarst!
 
 <h3 style="color: #856404;"><i class="fas fa-lightbulb me-2"></i> Wat kun je verwachten?</h3>
-Bereid je voor op een middag vol actie en denkwerk! Teams kunnen een grote variëteit aan **doe-opdrachten** en uitdagende **puzzels** verwachten. Of je nu goed bent in het oplossen van raadsels of liever de handen uit de mouwen steekt bij een actieve opdracht, er is voor ieder wat wils.
+Bereid je voor op een middag vol actie en denkwerk! Teams kunnen een grote variëteit aan <strong>doe-opdrachten</strong> en uitdagende <strong>puzzels</strong> verwachten. Of je nu goed bent in het oplossen van raadsels of liever de handen uit de mouwen steekt bij een actieve opdracht, er is voor ieder wat wils.
 
 ***
 
