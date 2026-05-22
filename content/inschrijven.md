@@ -57,10 +57,13 @@ Deelname aan de WijKwis is niet alleen ontzettend leuk, maar ook heel voordelig,
 
 <h3 class="h4 fw-bold" style="color: #2397BB;">Hoe schrijf ik in?</h3>
 
-Je kunt je direct online aanmelden via de knoppen hierboven. Heb je liever persoonlijk contact of nog wat vragen? Kom dan naar onze gezellige **inschrijfavond**!
+Je kunt je direct online aanmelden via de knoppen hierboven. Heb je liever persoonlijk contact of nog wat vragen? Kom dan naar onze gezellige **inschrijfavond** op 18 juni!
 
 <div class="alert shadow-sm border-0 bg-light">
     <i class="fas fa-calendar-alt me-2 text-primary"></i> <strong>Inschrijfavond:</strong> Donderdag 18 juni in het Sportcafé.
+</div>
+<div class="alert shadow-sm border-0 bg-light">
+    <i class="fas fa-calendar-alt me-2 text-primary"></i> <strong>Inschrijven tijdens de Garagesale:</strong> Zondag 13 september.
 </div>
 <div class="alert shadow-sm border-0 bg-light">
     <i class="fas fa-calendar-alt me-2 text-primary"></i> <strong>Deadline inschrijving:</strong> Zondag 20 september 23:59
