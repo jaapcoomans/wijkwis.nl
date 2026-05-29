@@ -45,6 +45,17 @@ Ben je klaar om met je vrienden, buren of familie de strijd aan te gaan? Of wil 
     </div>
 </div>
 
+<div class="card border-0 shadow-sm mb-5" style="background-color: #e3f2fd; border-left: 5px solid #2397BB !important;">
+    <div class="card-body">
+        <h3 class="h4 fw-bold" style="color: #2397BB;"><i class="fas fa-clock me-2"></i> Programma: 10 oktober</h3>
+        <ul class="list-unstyled mb-0">
+            <li><strong>14:00 - 16:00:</strong> WijKwis Junior</li>
+            <li><strong>17:00 - 21:00:</strong> WijKwis (volwassenen)</li>
+            <li><strong>21:00 - 01:00:</strong> Feest en prijsuitreiking</li>
+        </ul>
+    </div>
+</div>
+
 <h3 class="h4 fw-bold" style="color: #2397BB;">Kosten & Deelname</h3>
 
 Deelname aan de WijKwis is niet alleen ontzettend leuk, maar ook heel voordelig, zeker als je er vroeg bij bent!
