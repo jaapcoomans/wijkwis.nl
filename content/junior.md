@@ -17,7 +17,7 @@ Een team voor de WijKwis Junior bestaat uit <strong>4 of 5 kinderen</strong>. Om
 In tegenstelling tot de reguliere WijKwis, waarbij de teams vanuit hun eigen thuisbasis opereren, verzamelen alle Junior-teams zich op **één centrale locatie** in de wijk. Vanuit daar gaan jullie gezamenlijk de strijd aan.
 
 <h3 style="color: #856404;"><i class="fas fa-clock me-2"></i> Tijdstip en Programma</h3>
-De WijKwis Junior vindt plaats op dezelfde dag als de reguliere WijKwis. We beginnen om stipt <strong>14:00 uur</strong> en het programma duurt tot <strong>16:00 uur</strong>. Het is dus de perfecte opwarmer voor de wijk voordat het avondprogramma losbarst!
+De WijKwis Junior vindt net als de reguliere WijKwis plaats op <strong>10 oktober 2026</strong>. We beginnen om stipt <strong>14:00 uur</strong> en het programma duurt tot <strong>16:00 uur</strong>. Het is dus de perfecte opwarmer voor de wijk voordat het avondprogramma losbarst!
 
 <h3 style="color: #856404;"><i class="fas fa-lightbulb me-2"></i> Wat kun je verwachten?</h3>
 Bereid je voor op een middag vol actie en denkwerk! Teams kunnen een grote variëteit aan <strong>doe-opdrachten</strong> en uitdagende <strong>puzzels</strong> verwachten. Of je nu goed bent in het oplossen van raadsels of liever de handen uit de mouwen steekt bij een actieve opdracht, er is voor ieder wat wils.
