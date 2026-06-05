@@ -12,7 +12,7 @@ layout: :theme/page
 </div>
 
 <h3 style="color: #856404;"><i class="fas fa-users me-2"></i> Hoe werkt het?</h3>
-Een team voor de WijKwis Junior bestaat uit <strong>4 of 5 kinderen</strong>. Omdat veiligheid en een beetje hulp natuurlijk belangrijk zijn, moet elk team worden vergezeld door een <strong>volwassen begeleider (coach)</strong>. 
+Een team voor de WijKwis Junior bestaat uit <strong>4 of 5 kinderen</strong>. Omdat veiligheid en een beetje hulp natuurlijk belangrijk zijn, moet elk team worden vergezeld door een <strong>volwassen begeleider (coach)</strong>. De kosten voor deelname bedragen <strong>€10 per team</strong>.
 
 In tegenstelling tot de reguliere WijKwis, waarbij de teams vanuit hun eigen thuisbasis opereren, verzamelen alle Junior-teams zich op **één centrale locatie** in de wijk. Vanuit daar gaan jullie gezamenlijk de strijd aan.
 
@@ -26,6 +26,6 @@ Bereid je voor op een middag vol actie en denkwerk! Teams kunnen een grote vari�
 
 <div class="bg-light p-4 rounded shadow-sm border-0" style="background-color: #fffde7 !important; border-left: 5px solid #ffc107 !important;">
     <h4 style="color: #856404;">Wil je ook meedoen met jouw team?</h4>
-    <p style="color: #856404;">Schrijf je dan snel in via de inschrijfpagina en zorg dat je erbij bent op deze sportieve en gezellige middag!</p>
+    <p style="color: #856404;">Schrijf je dan snel in via de inschrijfpagina (€10 per team) en zorg dat je erbij bent op deze sportieve en gezellige middag!</p>
     <a href="/inschrijven" class="btn btn-warning fw-bold shadow-sm" style="color: #212529; background-color: #ffc107; border-color: #ffc107;">Naar inschrijven</a>
 </div>
