@@ -7,5 +7,7 @@ items:
     path: "/inschrijven"
   - title: "Junior"
     path: "/junior"
+  - title: "Voorgaande edities"
+    path: "/voorgaande-edities"
   - title: "Veel gestelde vragen"
     path: "/faq"

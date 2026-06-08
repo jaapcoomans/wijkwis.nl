@@ -306,6 +306,39 @@
             padding: 0.25rem 0.5rem;
         }
     }
+    
+    .results-table table {
+        width: 100% !important;
+        border-collapse: collapse;
+        margin: 1rem 0;
+    }
+    .results-table th,
+    .results-table td {
+        padding: 0.75rem 1rem;
+        border: 1px solid #e9ecef;
+    }
+    .results-table th {
+        background-color: #2397BB;
+        color: white;
+        font-weight: 600;
+        text-transform: uppercase;
+        font-size: 0.9rem;
+        letter-spacing: 0.5px;
+    }
+    /* Zebra striping */
+    .results-table tbody tr:nth-child(even) {
+        background-color: #f8f9fa;
+    }
+    /* Hover effect */
+    .results-table tbody tr:hover {
+        background-color: #f1f1f1;
+    }
+    /* Highlight first place */
+    .results-table tbody tr:first-child {
+        background-color: #fff9c4 !important;
+        color: #856404;
+        font-weight: bold;
+    }
 </style>
 
 {#bundle /}
