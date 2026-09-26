@@ -8,6 +8,13 @@ layout: :theme/page
 
 # Schrijf je in voor de WijKwis!
 
+<div class="card border-0 shadow-sm mb-5" style="background-color: #f5f5f5; border-left: 5px solid #808080 !important;">
+    <div class="card-body">
+        <h3 class="h4 fw-bold" style="color: #808080;"><i class="fas fa-lock me-2"></i> Inschrijving gesloten</h3>
+        De inschrijftermijn voor WijKwis De Blaak 2026 is helaas verlopen. Inschrijven is niet meer mogelijk. Hopelijk zien we je weer in 2027!
+    </div>
+</div>
+
 Ben je klaar om met je vrienden, buren of familie de strijd aan te gaan? Of wil je graag meedoen maar heb je nog geen team? Geen probleem! Inschrijven voor de WijKwis De Blaak is eenvoudig en kan op twee manieren.
 
 <div class="row g-4 mb-5">
@@ -17,7 +24,7 @@ Ben je klaar om met je vrienden, buren of familie de strijd aan te gaan? Of wil 
                 <h3 class="h4 fw-bold" style="color: #2397BB;"><i class="fas fa-users me-2"></i> Als Team</h3>
                 <p>Vorm een team van 8 tot 12 personen. Jullie inschrijving is definitief zodra de betaling is verwerkt. Bepaal alvast wie de teamcaptain wordt en waar jullie thuisbasis in de wijk zal zijn!</p>
                 <div class="mt-auto pt-3">
-                    <a href="https://forms.gle/JX7HPQaBEspZq9u78" target="_blank" class="btn btn-lg btn-primary">Team inschrijven</a>
+                    <a href="https://forms.gle/JX7HPQaBEspZq9u78" target="_blank" class="btn btn-lg btn-primary disabled">Team inschrijven</a>
                 </div>
             </div>
         </div>
@@ -28,7 +35,7 @@ Ben je klaar om met je vrienden, buren of familie de strijd aan te gaan? Of wil 
                 <h3 class="h4 fw-bold" style="color: #2397BB;"><i class="fas fa-user-plus me-2"></i> Individueel</h3>
                 <p>Heb je geen team maar wil je dit spektakel niet missen? Schrijf je individueel in! Wij zorgen ervoor dat je wordt gekoppeld aan een leuk bestaand team of vormen een gloednieuw team met andere enthousiastelingen.</p>
                 <div class="mt-auto pt-3">
-                    <a href="https://forms.gle/Th8K6pbgEtBzXevw5" target="_blank" class="btn btn-lg btn-primary">Individueel inschrijven</a>
+                    <a href="https://forms.gle/Th8K6pbgEtBzXevw5" target="_blank" class="btn btn-lg btn-primary disabled">Individueel inschrijven</a>
                 </div>
             </div>
         </div>
@@ -40,7 +47,7 @@ Ben je klaar om met je vrienden, buren of familie de strijd aan te gaan? Of wil 
         <h3 class="h4 fw-bold" style="color: #856404;"><i class="fas fa-child me-2"></i> WijKwis Junior</h3>
         <p style="color: #856404;">Speciaal voor de jonge speurders van 8 tot 12 jaar! Vorm een team van 4 of 5 kinderen en een volwassen begeleider. Een middag vol spanning, plezier en uitdagende vragen op een centrale locatie. <a href="/junior" class="text-decoration-none fw-bold" style="color: #856404; text-decoration: underline !important;">Lees meer...</a></p>
         <div class="pt-2">
-            <a href="https://forms.gle/1hWF869Q7cQF9DDPA" target="_blank" class="btn btn-lg btn-warning fw-bold shadow-sm" style="color: #212529; background-color: #ffc107; border-color: #ffc107;">Junior inschrijven</a>
+            <a href="https://forms.gle/1hWF869Q7cQF9DDPA" target="_blank" class="btn btn-lg btn-warning fw-bold shadow-sm disabled" style="color: #212529; background-color: #ffc107; border-color: #ffc107;">Junior inschrijven</a>
         </div>
     </div>
 </div>
@@ -49,7 +56,7 @@ Ben je klaar om met je vrienden, buren of familie de strijd aan te gaan? Of wil 
     <div class="card-body">
         <h3 class="h4 fw-bold" style="color: #2397BB;"><i class="fas fa-clock me-2"></i> Programma: 10 oktober</h3>
         <ul class="list-unstyled mb-0">
-            <li><strong>14:00 - 16:00:</strong> WijKwis Junior</li>
+            <li><strong>13:30 - 15:30:</strong> WijKwis Junior</li>
             <li><strong style="color: #2397BB;">WijKwis 2026:</strong></li>
             <li><strong>17:00 - 21:00:</strong> WijKwis</li>
             <li><strong>21:00 - 01:00:</strong> Feest en prijsuitreiking</li>
